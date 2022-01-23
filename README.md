@@ -1,2 +1,0 @@
-# IraStrikatova
-psets
